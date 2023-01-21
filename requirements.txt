@@ -48,3 +48,4 @@ Flask-Login==0.6.2
 Flask-SQLAlchemy==2.5.1
 SQLAlchemy==1.4.41
 opencv-python==4.7.0.68
+gunicorn==20.1.0
